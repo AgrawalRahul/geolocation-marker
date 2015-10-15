@@ -1,0 +1,19 @@
+{
+  "name": "geolocation-marker",
+  "version": "0.0.0",
+  "homepage": "https://github.com/AgrawalRahul/geolocation-marker",
+  "authors": [
+    "Rahul Agrawal <rahul.agrawal@hotcocoasoftware.com>"
+  ],
+  "description": "",
+  "main": "dist/geolocationmarker-compiled.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
